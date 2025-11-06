@@ -22,405 +22,807 @@ TZNAME:GMT
 DTSTART:19701025T020000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
-END:VTIMEZONE
-BEGIN:VEVENT
-UID:d1-0830@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260122T083000
-DTEND;TZID=Europe/London:20260122T092000
-SUMMARY:Registration opens
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d1-0920@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260122T092000
-DTEND;TZID=Europe/London:20260122T093000
-SUMMARY:Welcome and introduction — Paul Brindley (Music Ally)
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d1-0930@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260122T093000
-DTEND;TZID=Europe/London:20260122T101000
-SUMMARY:Keynote Interview — Jonathan Dworkin (UMG) • Interviewed by Paul Br
- indley
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d1-1010@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260122T101000
-DTEND;TZID=Europe/London:20260122T103000
-SUMMARY:Presentation — “AI Music – Just How Good Can It Get?” (Stuart Dredg
- e, Music Ally)
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d1-1030@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260122T103000
-DTEND;TZID=Europe/London:20260122T105500
-SUMMARY:Panel — AI Music: Just How Good Can It Get?
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-DESCRIPTION:How fast is AI-generated music improving, and what is its ceili
- ng?\nWhat will be the next evolutions for GenAI music-creation tools?\nWho
-  is using these tools now, and what are their creative ambitions?\nWhat do
- es all of this mean for DSPs and the wider music industry?\nChair: Virgini
- e Berger (Don't believe the Hype / Music Foundry)\nSpeakers: Philip Watson
-  (WMG); Mateusz Modrzejewski (Politechnika Warszawska); Nadine Kroher (Pas
- sion Labs)
-END:VEVENT
-BEGIN:VEVENT
-UID:d1-1055@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260122T105500
-DTEND;TZID=Europe/London:20260122T110500
-SUMMARY:Partner Presentation — Nathalie Birocheau (CEO, IRCAM Amplify)
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d1-1105@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260122T110500
-DTEND;TZID=Europe/London:20260122T113500
-SUMMARY:Break
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d1-1135@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260122T113500
-DTEND;TZID=Europe/London:20260122T115000
-SUMMARY:Presentation — Jaime Marconette (Luminate)
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d1-1150@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260122T115000
-DTEND;TZID=Europe/London:20260122T121500
-SUMMARY:Keynote Interview — Focus on Africa: Godwin Tom (Sony Music Publish
- ing Nigeria)
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d1-1215@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260122T121500
-DTEND;TZID=Europe/London:20260122T130000
-SUMMARY:Panel — Focus on Asia
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-DESCRIPTION:What are the most exciting opportunities in Asia for internatio
- nal music companies and artists?\nHow do the major streaming services in A
- sia differ from those in the West?\nWhat are the key trends in artist deve
- lopment across Asia?\nHow are artists monetising their careers in Asia, an
- d what lessons can be learned?\nChair: Laurence Oxenbury (PPL)\nSpeakers: 
- Priya Dewan (Gig Life Pro); Priyanka Khimani (Khimani & Associates); Jay K
- ogami (Music Ally Japan)
-END:VEVENT
-BEGIN:VEVENT
-UID:d1-1300@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260122T130000
-DTEND;TZID=Europe/London:20260122T140000
-SUMMARY:Lunch
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d1-1400@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260122T140000
-DTEND;TZID=Europe/London:20260122T142000
-SUMMARY:Keynote Interview (tbc) — Music & Gaming
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d1-1420@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260122T142000
-DTEND;TZID=Europe/London:20260122T150000
-SUMMARY:Panel — Music and Gaming
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-DESCRIPTION:How does gaming’s cultural and commercial power compare to musi
- c, film, and TV in 2026?\nHow are music–games partnerships evolving, and w
- hat’s new?\nWhy is gaming an increasingly important channel for music disc
- overy?\nWhat can music learn from gaming on superfans, GenAI, and more?\nC
- hair: Vickie Nauman (CrossBorderWorks)\nSpeakers: Dr Jo Twist (BPI); Ben S
- umner (Feel For Music); PRS speaker tbc
-END:VEVENT
-BEGIN:VEVENT
-UID:d1-1500@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260122T150000
-DTEND;TZID=Europe/London:20260122T153000
-SUMMARY:Break
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d1-1530@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260122T153000
-DTEND;TZID=Europe/London:20260122T154000
-SUMMARY:Partner Presentation — The New Release Strategy: D2C before DSP (Ma
- g Rodriguez, EVEN)
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d1-1540@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260122T154000
-DTEND;TZID=Europe/London:20260122T162000
-SUMMARY:Panel — Inspiring Innovation
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-DESCRIPTION:How do we move from talking about innovation to actually delive
- ring it?\nWhat’s the balance between internal innovation and bringing it i
- n from outside?\nWhich new technologies offer real opportunity vs hype?\nW
- hat talent do we need to foster innovation and partnerships?\nChair: Chris
- tine Osazuwa (Measure of Music)\nSpeakers: Emily Ingram (Sollos); Emma Coo
- per (Innovate UK Business Connect); Lee Martin (Netmaker)
-END:VEVENT
-BEGIN:VEVENT
-UID:d1-1620@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260122T162000
-DTEND;TZID=Europe/London:20260122T170000
-SUMMARY:Music Ally SI:X Startup Presentations & Audience Vote
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-DESCRIPTION:Presentations from the latest Music Ally SI:X cohort. Audience 
- vote to crown the winner.
-END:VEVENT
-BEGIN:VEVENT
-UID:d1-1700@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260122T170000
-DTEND;TZID=Europe/London:20260122T180000
-SUMMARY:Drinks Reception
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-DESCRIPTION:Supported by partners.
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-0920@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T092000
-DTEND;TZID=Europe/London:20260123T093000
-SUMMARY:Registration opens
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-0930@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T093000
-DTEND;TZID=Europe/London:20260123T100000
-SUMMARY:Keynote Interview (tbc)
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-1000@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T100000
-DTEND;TZID=Europe/London:20260123T102000
-SUMMARY:Presentation — “Supremium Streaming” (Mark Mulligan, MIDiA Research
- )
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-1020@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T102000
-DTEND;TZID=Europe/London:20260123T104500
-SUMMARY:Panel — What Does Supremium Really Mean?
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-DESCRIPTION:Why are DSPs launching premium+ tiers in 2026?\nHow will they b
- e priced, and what features will they offer?\nWhat do superfans really wan
- t from these subscriptions?\nWhat are the risks and rewards of launching t
- hese tiers?\nChair: Helena Kosinski (MTUK)\nSpeakers: James Healy (UMG); D
- arren Hemmings (Motive Unknown); + tbc
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-1045@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T104500
-DTEND;TZID=Europe/London:20260123T105500
-SUMMARY:Partner Presentation — SoundCloud: Global Sounds, Local Start (Wyat
- t Marshall)
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-1055@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T105500
-DTEND;TZID=Europe/London:20260123T112500
-SUMMARY:Break
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-1125@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T112500
-DTEND;TZID=Europe/London:20260123T114500
-SUMMARY:Mini Panel (tbc) — More Than Words: How lyrics amplify the streamin
- g experience (Supported by Musixmatch)
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-DESCRIPTION:What are the most recent innovations in how lyrics are presente
- d on streaming services?\nWhat’s next? How else could lyrics be presented 
- and used by DSPs in creative ways?\nWhat is the business value of lyrics f
- or DSPs, and how is that evolving?\nWhat are the main challenges around ly
- rics and DSPs in 2026 – and how can they be tackled?
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-1145@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T114500
-DTEND;TZID=Europe/London:20260123T120500
-SUMMARY:Keynote Interview — Laurence Hubert (CEO, Kobalt Music)
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-1205@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T120500
-DTEND;TZID=Europe/London:20260123T123500
-SUMMARY:Panel — The Music Ally Connect Artist Managers Panel
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-DESCRIPTION:How are new technologies and Big Data changing the way managers
-  pilot their artists’ careers?\nHow are they tackling the challenge of sca
- ling their artists’ careers internationally?\nWhich emerging markets and r
- egions are they prioritising, and why?\nHow are the deals between artists 
- and managers evolving?\nChair: Kwame Kwaten (Ferocious Talent)\nSpeakers: 
- Martha Earls (Neon Coast / Kane Brown); + tbc
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-1235@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T123500
-DTEND;TZID=Europe/London:20260123T130000
-SUMMARY:Keynote Interview — Iain Catling (CEO, Audiosalad)
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-1300@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T130000
-DTEND;TZID=Europe/London:20260123T140000
-SUMMARY:Lunch
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-1400@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T140000
-DTEND;TZID=Europe/London:20260123T141000
-SUMMARY:Partner Presentation — Samantha Sawyer (MassiveMusic)
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-1410@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T141000
-DTEND;TZID=Europe/London:20260123T143000
-SUMMARY:Keynote Interview — Mike Huppe (CEO, SoundExchange) • Interviewed b
- y Julia Montero
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-1430@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T143000
-DTEND;TZID=Europe/London:20260123T151500
-SUMMARY:Panel — Publishing’s Global Opportunities
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-DESCRIPTION:What can Western publishers learn from fast-growing music regio
- ns?\nHow is the growth of Afrobeats, Latin and K-pop impacting publishing?
- \nWhat are the infrastructure challenges for traditional publishers?\nWill
-  regional powerhouses emerge or will global players consolidate?\nChair: M
- andy Salem-Aubry (MSA Music Services)\nSpeakers: Emilio Morales (Rimas Pub
- lishing); Claire McAuley (Warner Chappell Music); SACEM speaker tbc
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-1515@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T151500
-DTEND;TZID=Europe/London:20260123T154500
-SUMMARY:Break
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-1545@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T154500
-DTEND;TZID=Europe/London:20260123T161000
-SUMMARY:Keynote Interview (tbc)
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-1610@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T161000
-DTEND;TZID=Europe/London:20260123T162000
-SUMMARY:Presentation — “AI and Marketing Music” (Marlen Huellbrock, Music A
- lly)
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-DESCRIPTION:Presentations from the winners of the Music Ally SI:X startup s
- upport initiative, followed by an audience vote.
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-1620@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T162000
-DTEND;TZID=Europe/London:20260123T170000
-SUMMARY:Panel — AI and Marketing Music
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-DESCRIPTION:How is AI currently used in music marketing – and what’s next?\
- nWhat are the creative opportunities and potential backlash?\nWhat’s the f
- uture of music marketers in the age of AI?\nChair: Patrick Ross (COO, Musi
- c Ally)\nSpeakers: Tomas Luyke (Nettwerk Music Group); Chuka Chase (Sympho
- ny OS); + tbc
-END:VEVENT
-BEGIN:VEVENT
-UID:d2-1700@musically.com
-DTSTAMP:20251106T112332Z
-DTSTART;TZID=Europe/London:20260123T170000
-DTEND;TZID=Europe/London:20260123T170500
-SUMMARY:Event Ends
-LOCATION:The Brewery, London
-URL:https://musically.com/connect/
-END:VEVENT
-END:VCALENDAR
+END:VTIMEZONE
+
+BEGIN:VEVENT
+
+UID:d1-0830@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260122T083000
+
+DTEND;TZID=Europe/London:20260122T092000
+
+SUMMARY:Registration opens
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-0920@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260122T092000
+
+DTEND;TZID=Europe/London:20260122T093000
+
+SUMMARY:Welcome and introduction — Paul Brindley (Music Ally)
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-0930@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260122T093000
+
+DTEND;TZID=Europe/London:20260122T101000
+
+SUMMARY:Keynote Interview — Jonathan Dworkin (UMG) • Interviewed by Paul Br
+
+ indley
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1010@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260122T101000
+
+DTEND;TZID=Europe/London:20260122T103000
+
+SUMMARY:Presentation — “AI Music – Just How Good Can It Get?” (Stuart Dredg
+
+ e\\\, Music Ally)
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1030@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260122T103000
+
+DTEND;TZID=Europe/London:20260122T105500
+
+SUMMARY:Panel — AI Music: Just How Good Can It Get?
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+DESCRIPTION:How fast is AI-generated music improving\\\, and what is its ce
+
+ iling?\nWhat will be the next evolutions for GenAI music-creation tools?\n
+
+ Who is using these tools now\\\, and what are their creative ambitions?\nW
+
+ hat does all of this mean for DSPs and the wider music industry?\nChair: V
+
+ irginie Berger (Don't believe the Hype / Music Foundry)\nSpeakers: Philip 
+
+ Watson (WMG)\\\; Mateusz Modrzejewski (Politechnika Warszawska)\\\; Nadine
+
+  Kroher (Passion Labs)
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1055@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260122T105500
+
+DTEND;TZID=Europe/London:20260122T110500
+
+SUMMARY:Partner Presentation — Nathalie Birocheau (CEO\\\, IRCAM Amplify)
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1105@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260122T110500
+
+DTEND;TZID=Europe/London:20260122T113500
+
+SUMMARY:Break
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1135@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260122T113500
+
+DTEND;TZID=Europe/London:20260122T115000
+
+SUMMARY:Presentation — Jaime Marconette (Luminate)
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1150@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260122T115000
+
+DTEND;TZID=Europe/London:20260122T121500
+
+SUMMARY:Keynote Interview — Focus on Africa: Godwin Tom (Sony Music Publish
+
+ ing Nigeria)
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1215@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260122T121500
+
+DTEND;TZID=Europe/London:20260122T130000
+
+SUMMARY:Panel — Focus on Asia
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+DESCRIPTION:What are the most exciting opportunities in Asia for internatio
+
+ nal music companies and artists?\nHow do the major streaming services in A
+
+ sia differ from those in the West?\nWhat are the key trends in artist deve
+
+ lopment across Asia?\nHow are artists monetising their careers in Asia\\\,
+
+  and what lessons can be learned?\nChair: Laurence Oxenbury (PPL)\nSpeaker
+
+ s: Priya Dewan (Gig Life Pro)\\\; Priyanka Khimani (Khimani & Associates)\
+
+ \\; Jay Kogami (Music Ally Japan)
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1300@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260122T130000
+
+DTEND;TZID=Europe/London:20260122T140000
+
+SUMMARY:Lunch
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1400@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260122T140000
+
+DTEND;TZID=Europe/London:20260122T142000
+
+SUMMARY:Keynote Interview (tbc) — Music & Gaming
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1420@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260122T142000
+
+DTEND;TZID=Europe/London:20260122T150000
+
+SUMMARY:Panel — Music and Gaming
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+DESCRIPTION:How does gaming’s cultural and commercial power compare to musi
+
+ c\\\, film\\\, and TV in 2026?\nHow are music–games partnerships evolving\
+
+ \\, and what’s new?\nWhy is gaming an increasingly important channel for m
+
+ usic discovery?\nWhat can music learn from gaming on superfans\\\, GenAI\\
+
+ \, and more?\nChair: Vickie Nauman (CrossBorderWorks)\nSpeakers: Dr Jo Twi
+
+ st (BPI)\\\; Ben Sumner (Feel For Music)\\\; PRS speaker tbc
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1500@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260122T150000
+
+DTEND;TZID=Europe/London:20260122T153000
+
+SUMMARY:Break
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1530@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260122T153000
+
+DTEND;TZID=Europe/London:20260122T154000
+
+SUMMARY:Partner Presentation — The New Release Strategy: D2C before DSP (Ma
+
+ g Rodriguez\\\, EVEN)
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1540@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260122T154000
+
+DTEND;TZID=Europe/London:20260122T162000
+
+SUMMARY:Panel — Inspiring Innovation
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+DESCRIPTION:How do we move from talking about innovation to actually delive
+
+ ring it?\nWhat’s the balance between internal innovation and bringing it i
+
+ n from outside?\nWhich new technologies offer real opportunity vs hype?\nW
+
+ hat talent do we need to foster innovation and partnerships?\nChair: Chris
+
+ tine Osazuwa (Measure of Music)\nSpeakers: Emily Ingram (Sollos)\\\; Emma 
+
+ Cooper (Innovate UK Business Connect)\\\; Lee Martin (Netmaker)
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1620@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260122T162000
+
+DTEND;TZID=Europe/London:20260122T170000
+
+SUMMARY:Music Ally SI:X Startup Presentations & Audience Vote
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+DESCRIPTION:Presentations from the latest Music Ally SI:X cohort. Audience 
+
+ vote to crown the winner.
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1700@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260122T170000
+
+DTEND;TZID=Europe/London:20260122T180000
+
+SUMMARY:Drinks Reception
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+DESCRIPTION:Supported by partners.
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-0920@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T092000
+
+DTEND;TZID=Europe/London:20260123T093000
+
+SUMMARY:Registration opens
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-0930@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T093000
+
+DTEND;TZID=Europe/London:20260123T100000
+
+SUMMARY:Keynote Interview (tbc)
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1000@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T100000
+
+DTEND;TZID=Europe/London:20260123T102000
+
+SUMMARY:Presentation — “Supremium Streaming” (Mark Mulligan\\\, MIDiA Resea
+
+ rch)
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1020@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T102000
+
+DTEND;TZID=Europe/London:20260123T104500
+
+SUMMARY:Panel — What Does Supremium Really Mean?
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+DESCRIPTION:Why are DSPs launching premium+ tiers in 2026?\nHow will they b
+
+ e priced\\\, and what features will they offer?\nWhat do superfans really 
+
+ want from these subscriptions?\nWhat are the risks and rewards of launchin
+
+ g these tiers?\nChair: Helena Kosinski (MTUK)\nSpeakers: James Healy (UMG)
+
+ \\\; Darren Hemmings (Motive Unknown)\\\; + tbc
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1045@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T104500
+
+DTEND;TZID=Europe/London:20260123T105500
+
+SUMMARY:Partner Presentation — SoundCloud: Global Sounds\\\, Local Start (W
+
+ yatt Marshall)
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1055@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T105500
+
+DTEND;TZID=Europe/London:20260123T112500
+
+SUMMARY:Break
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1125@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T112500
+
+DTEND;TZID=Europe/London:20260123T114500
+
+SUMMARY:Mini Panel (tbc) — More Than Words: How lyrics amplify the streamin
+
+ g experience (Supported by Musixmatch)
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+DESCRIPTION:Recent innovations in how lyrics are presented on streaming ser
+
+ vices.\nWhat’s next for lyrics on DSPs?\nBusiness value of lyrics for DSPs
+
+ \\\, and how it’s evolving.\nMain challenges around lyrics and DSPs in 202
+
+ 6 — and how to tackle them.
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1145@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T114500
+
+DTEND;TZID=Europe/London:20260123T120500
+
+SUMMARY:Keynote Interview — Laurence Hubert (CEO\\\, Kobalt Music)
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1205@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T120500
+
+DTEND;TZID=Europe/London:20260123T123500
+
+SUMMARY:Panel — The Music Ally Connect Artist Managers Panel
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+DESCRIPTION:How are new technologies and Big Data changing the way managers
+
+  pilot their artists’ careers?\nHow are they tackling the challenge of sca
+
+ ling internationally?\nWhich emerging markets and regions are they priorit
+
+ ising\\\, and why?\nHow are the deals between artists and managers evolvin
+
+ g?\nChair: Kwame Kwaten (Ferocious Talent)\nSpeakers: Martha Earls (Neon C
+
+ oast / Kane Brown)\\\; + tbc
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1235@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T123500
+
+DTEND;TZID=Europe/London:20260123T130000
+
+SUMMARY:Keynote Interview — Iain Catling (CEO\\\, Audiosalad)
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1300@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T130000
+
+DTEND;TZID=Europe/London:20260123T140000
+
+SUMMARY:Lunch
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1400@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T140000
+
+DTEND;TZID=Europe/London:20260123T141000
+
+SUMMARY:Partner Presentation — Samantha Sawyer (MassiveMusic)
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1410@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T141000
+
+DTEND;TZID=Europe/London:20260123T143000
+
+SUMMARY:Keynote Interview — Mike Huppe (CEO\\\, SoundExchange) • Interviewe
+
+ d by Julia Montero
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1430@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T143000
+
+DTEND;TZID=Europe/London:20260123T151500
+
+SUMMARY:Panel — Publishing’s Global Opportunities
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+DESCRIPTION:What can Western publishers learn from fast-growing music regio
+
+ ns?\nHow is the growth of Afrobeats\\\, Latin and K-pop impacting publishi
+
+ ng?\nWhat are the infrastructure challenges for traditional publishers?\nW
+
+ ill regional powerhouses emerge or will global players consolidate?\nChair
+
+ : Mandy Salem-Aubry (MSA Music Services)\nSpeakers: Emilio Morales (Rimas 
+
+ Publishing)\\\; Claire McAuley (Warner Chappell Music)\\\; SACEM speaker t
+
+ bc
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1515@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T151500
+
+DTEND;TZID=Europe/London:20260123T154500
+
+SUMMARY:Break
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1545@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T154500
+
+DTEND;TZID=Europe/London:20260123T161000
+
+SUMMARY:Keynote Interview (tbc)
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1610@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T161000
+
+DTEND;TZID=Europe/London:20260123T162000
+
+SUMMARY:Presentation — “AI and Marketing Music” (Marlen Huellbrock\\\, Musi
+
+ c Ally)
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+DESCRIPTION:Presentations from the winners of the Music Ally SI:X startup s
+
+ upport initiative\\\, followed by an audience vote.
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1620@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T162000
+
+DTEND;TZID=Europe/London:20260123T170000
+
+SUMMARY:Panel — AI and Marketing Music
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+DESCRIPTION:How is AI currently used in music marketing – and what’s next?\
+
+ nWhat are the creative opportunities and potential backlash?\nWhat’s the f
+
+ uture of music marketers in the age of AI?\nChair: Patrick Ross (Music All
+
+ y)\nSpeakers: Tomas Luyke (Nettwerk Music Group)\\\; Chuka Chase (Symphony
+
+  OS)\\\; + tbc
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1700@musically.com
+
+DTSTAMP:20251106T115255Z
+
+DTSTART;TZID=Europe/London:20260123T170000
+
+DTEND;TZID=Europe/London:20260123T170500
+
+SUMMARY:Event Ends
+
+LOCATION:The Brewery\, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+END:VCALENDAR
+
