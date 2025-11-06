@@ -1,0 +1,678 @@
+BEGIN:VCALENDAR
+
+PRODID:-//Music Ally//Connect 2026 Agenda//EN
+
+VERSION:2.0
+
+CALSCALE:GREGORIAN
+
+X-WR-CALNAME:Music Ally Connect 2026 - Agenda
+
+BEGIN:VEVENT
+
+UID:d1-0830@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260122T083000Z
+
+DTEND:20260122T092000Z
+
+SUMMARY:Registration opens
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-0920@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260122T092000Z
+
+DTEND:20260122T093000Z
+
+SUMMARY:Welcome and introduction - Paul Brindley (Music Ally)
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-0930@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260122T093000Z
+
+DTEND:20260122T101000Z
+
+SUMMARY:Keynote Interview - Jonathan Dworkin (UMG)
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1010@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260122T101000Z
+
+DTEND:20260122T103000Z
+
+SUMMARY:Presentation - AI Music: How Good Can It Get?
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1030@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260122T103000Z
+
+DTEND:20260122T105500Z
+
+SUMMARY:Panel - AI Music: How Good Can It Get?
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1055@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260122T105500Z
+
+DTEND:20260122T110500Z
+
+SUMMARY:Partner Presentation - IRCAM Amplify
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1105@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260122T110500Z
+
+DTEND:20260122T113500Z
+
+SUMMARY:Break
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1135@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260122T113500Z
+
+DTEND:20260122T115000Z
+
+SUMMARY:Presentation - Jaime Marconette (Luminate)
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1150@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260122T115000Z
+
+DTEND:20260122T121500Z
+
+SUMMARY:Keynote Interview - Godwin Tom (SMP Nigeria)
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1215@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260122T121500Z
+
+DTEND:20260122T130000Z
+
+SUMMARY:Panel - Focus on Asia
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1300@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260122T130000Z
+
+DTEND:20260122T140000Z
+
+SUMMARY:Lunch
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1400@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260122T140000Z
+
+DTEND:20260122T142000Z
+
+SUMMARY:Keynote Interview (tbc) - Music & Gaming
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1420@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260122T142000Z
+
+DTEND:20260122T150000Z
+
+SUMMARY:Panel - Music and Gaming
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1500@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260122T150000Z
+
+DTEND:20260122T153000Z
+
+SUMMARY:Break
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1530@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260122T153000Z
+
+DTEND:20260122T154000Z
+
+SUMMARY:Partner Presentation - EVEN
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1540@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260122T154000Z
+
+DTEND:20260122T162000Z
+
+SUMMARY:Panel - Inspiring Innovation
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1620@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260122T162000Z
+
+DTEND:20260122T170000Z
+
+SUMMARY:Music Ally SIX Startup Presentations & Vote
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d1-1700@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260122T170000Z
+
+DTEND:20260122T180000Z
+
+SUMMARY:Drinks Reception
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-0920@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T092000Z
+
+DTEND:20260123T093000Z
+
+SUMMARY:Registration opens
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-0930@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T093000Z
+
+DTEND:20260123T100000Z
+
+SUMMARY:Keynote Interview (tbc)
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1000@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T100000Z
+
+DTEND:20260123T102000Z
+
+SUMMARY:Presentation - Supremium Streaming (Mark Mulligan)
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1020@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T102000Z
+
+DTEND:20260123T104500Z
+
+SUMMARY:Panel - What Does Supremium Really Mean?
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1045@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T104500Z
+
+DTEND:20260123T105500Z
+
+SUMMARY:Partner Presentation - SoundCloud
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1055@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T105500Z
+
+DTEND:20260123T112500Z
+
+SUMMARY:Break
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1125@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T112500Z
+
+DTEND:20260123T114500Z
+
+SUMMARY:Mini Panel - More Than Words (Musixmatch)
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1145@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T114500Z
+
+DTEND:20260123T120500Z
+
+SUMMARY:Keynote Interview - Laurence Hubert (Kobalt)
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1205@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T120500Z
+
+DTEND:20260123T123500Z
+
+SUMMARY:Panel - Artist Managers
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1235@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T123500Z
+
+DTEND:20260123T130000Z
+
+SUMMARY:Keynote Interview - Iain Catling (Audiosalad)
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1300@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T130000Z
+
+DTEND:20260123T140000Z
+
+SUMMARY:Lunch
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1400@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T140000Z
+
+DTEND:20260123T141000Z
+
+SUMMARY:Partner Presentation - MassiveMusic
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1410@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T141000Z
+
+DTEND:20260123T143000Z
+
+SUMMARY:Keynote Interview - Mike Huppe (SoundExchange)
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1430@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T143000Z
+
+DTEND:20260123T151500Z
+
+SUMMARY:Panel - Publishing's Global Opportunities
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1515@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T151500Z
+
+DTEND:20260123T154500Z
+
+SUMMARY:Break
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1545@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T154500Z
+
+DTEND:20260123T161000Z
+
+SUMMARY:Keynote Interview (tbc)
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1610@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T161000Z
+
+DTEND:20260123T162000Z
+
+SUMMARY:Presentation - AI and Marketing Music
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1620@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T162000Z
+
+DTEND:20260123T170000Z
+
+SUMMARY:Panel - AI and Marketing Music
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:d2-1700@musically.com
+
+DTSTAMP:20251106T121012Z
+
+DTSTART:20260123T170000Z
+
+DTEND:20260123T170500Z
+
+SUMMARY:Event Ends
+
+LOCATION:The Brewery, London
+
+URL:https://musically.com/connect/
+
+END:VEVENT
+
+END:VCALENDAR
+
